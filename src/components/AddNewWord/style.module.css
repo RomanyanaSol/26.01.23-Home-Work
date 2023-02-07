@@ -1,0 +1,31 @@
+.addForm{
+    width: 543px;
+    margin: 59px 0 93px 0;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 15px;
+    display: flex;
+    gap: 25px;
+}
+
+.addForm input {
+    border: none;
+    border-radius: 25px;
+    background-color: #EBEBEB;
+    padding: 10px;
+    
+}
+
+::placeholder{
+    color: #000;
+    opacity: 1;
+}
+
+.addForm button{
+    border: none;
+    border-radius: 25px;
+    width: 196px;
+    color: white;
+    background-color: #F39C12;
+
+}

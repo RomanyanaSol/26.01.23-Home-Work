@@ -1,0 +1,20 @@
+.search_container{
+    width: 543px;
+    margin: 59px 0 93px 188px;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.search_container input{
+    width: 410px;
+    border: none;
+    border-radius: 25px;
+    background-color: #EBEBEB;
+    padding: 10px;
+}
+
+::placeholder{
+    color: #000;
+    opacity: 1;
+}

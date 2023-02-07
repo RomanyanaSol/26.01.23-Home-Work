@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 244px;
+    flex-wrap: wrap;
+}
+.card{
+    margin-top: 95px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 145px;
+}
